@@ -1,6 +1,6 @@
 # Kaveh Kakaei Nezhad: Full-Stack Developer | Artist 👨‍💻🌐💡
 
-![](./kaveh-header.jpeg)
+![](./kaveh-header.png)
 
 
 Hi there! I'm Kaveh Kakaei Nezhad, a full-stack developer & Artist. I have a proven track record of delivering dynamic web solutions using PHP, Python, JavaScript, React, and WordPress. I am skilled in UI/UX design and adept at implementing Agile methodologies to drive efficient development processes. I enjoy sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡🔐
