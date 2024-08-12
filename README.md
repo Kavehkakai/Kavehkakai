@@ -76,7 +76,7 @@ Here is a list of My Books:
 | Name | Publisher | Year |
 |---------|--------------|------|
 | ![اعلی](https://img.shields.io/badge/-Aela-F80000?style=flat&logo=oracle&logoColor=white) | [As Author ](https://www.gisoom.com/book/11459665/کتاب-اعلی/) | 2018 |
-| ![كوتاه به بلنداي آسمان](https://img.shields.io/badge/-Kutah be bolandaye Aseman-blue?style=plastic&logo=siemens&logoColor=white) | [As Poemer](https://www.gisoom.com/book/11451606/کتاب-کوتاه-به-بلندای-آسمان/) | 2017 |
+| ![کوتاه به بلندای آسمان](https://img.shields.io/badge/-Kutah be bolandaye aseman-F80000?style=flat&logo=oracle&logoColor=white) | [As Poemer](https://www.gisoom.com/book/11451606/کتاب-کوتاه-به-بلندای-آسمان/) | 2017 |
 | 
 
 ### 🚨 Vulnerability Discovery & Report
