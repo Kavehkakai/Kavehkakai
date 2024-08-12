@@ -21,7 +21,7 @@ Hi there! I'm Kaveh Kakaei Nezhad, a full-stack developer & Artist. I have a pro
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
     </a>
     <a href="https://www.pinterest.com/kavehkakaeinezhad/" target="_blank">
-        <img src="https://img.shields.io/badge/pinterest-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+        <img src="https://img.shields.io/badge/pinterest-%23000000.svg?&style=for-the-badge&logo=pinterest&logoColor=white" alt="Twitter" />
     </a>
     <a href="mailto:Kaveh.kakai@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
