@@ -41,17 +41,18 @@ Hi there! I'm Kaveh Kakaei Nezhad, a full-stack developer & Artist. I have a pro
 
 - **Primary Language**
   - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+   - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 - **Secondary Languages**  
-  - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
- ![Javascript](https://img.shields.io/badge/Javascript-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
+ 
+ - ![Javascript](https://img.shields.io/badge/Javascript-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
 
 
 - **Hacking Tools**
   - ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?&style=for-the-badge&logo=metasploit&logoColor=blue) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ff7b00.svg?&style=for-the-badge&logo=burp-suite&logoColor=white) ![Exploits](https://img.shields.io/badge/My%20Own%20Exploits-%23FF4500.svg?&style=for-the-badge&logo=security&logoColor=white)
 
 - **Operating Systems**
-   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-%2300c8ff.svg?&style=for-the-badge&logo=kalilinux&logoColor=white) 
+   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![windows](https://img.shields.io/badge/Kali-%2300c8ff.svg?&style=for-the-badge&logo=windowsx&logoColor=white) 
  
 - **Version Control**
   - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
