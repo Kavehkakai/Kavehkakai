@@ -45,7 +45,7 @@ Hi there! I'm Kaveh Kakaei Nezhad, a full-stack developer & Artist. I have a pro
 
 - **Secondary Languages**  
  
- - ![Javascript](https://img.shields.io/badge/Javascript-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
+ - ![Javascript](https://img.shields.io/badge/Javascript-%23A8B9CC.svg?&style=for-the-badge&logo=Javascript&logoColor=white) 
 
 
 - **Hacking Tools**
