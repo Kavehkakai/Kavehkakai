@@ -76,7 +76,7 @@ Here is a list of My Books:
 | Name | Publisher | Year |
 |---------|--------------|------|
 | ![اعلی](https://img.shields.io/badge/-Aela-F80000?style=flat&logo=oracle&logoColor=white) | [Daneshyaran ](https://www.gisoom.com/book/11459665/کتاب-اعلی/) | 2018 |
-| ![کوتاه به بلندای آسمان](https://img.shields.io/badge/-Kutah-Be-Bolandaye-Aseman-F80000?style=flat&logo=oracle&logoColor=white) | [Daneshyaran](https://www.gisoom.com/book/11451606/کتاب-کوتاه-به-بلندای-آسمان/) | 2017 |
+| ![کوتاه به بلندای آسمان](https://img.shields.io/badge/-Aela-F80000?style=flat&logo=oracle&logoColor=white) | [Daneshyaran](https://www.gisoom.com/book/11451606/کتاب-کوتاه-به-بلندای-آسمان/) | 2017 |
 | 
 
 ### 🚨 Vulnerability Discovery & Report
