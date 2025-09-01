@@ -1,133 +1,88 @@
-# Kaveh Kakaei Nezhad: Full-Stack Developer | Artist 👨‍💻🌐💡📚
+# 🚀 Kaveh Kakaei Nezhad  
+**Full-Stack Developer | Software Engineer | Artist** 👨‍💻🎨🔐  
 
 ![](./kaveh.png)
 
+---
 
-Hi there! I'm Kaveh Kakaei Nezhad, a full-stack developer & Artist. I have a proven track record of delivering dynamic web solutions using PHP, Python, JavaScript, React, and WordPress. I am skilled in UI/UX design and adept at implementing Agile methodologies to drive efficient development processes. I enjoy sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡🔐
+### 👋 About Me  
+Hi there! I'm **Kaveh Kakaei Nezhad**, a passionate full-stack developer, software engineer and digital artist.  
+I design and build modern web apps, scalable infrastructures, and creative digital experiences.  
+With years of hands-on experience, I enjoy working across the full stack—from polished UI/UX to robust backend systems—and contributing to the **developer community** with open-source tools & research.  
 
-<a href="https://github.com/Kavehkakai" target="_blank">
-    <img src="https://img.shields.io/github/followers/behnamvanda?style=social" alt="GitHub followers" />
-</a>
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/kaveh-kakaeinezhad/" target="_blank">
-        <img height="40" style="border: 0; height: 40px;" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" />
-    </a>
-</div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/kaveh-kakaeinezhad/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/kavehkakai_kav/" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
-    </a>
-    <a href="https://www.pinterest.com/kavehkakaeinezhad/" target="_blank">
-        <img src="https://img.shields.io/badge/pinterest-%23000000.svg?&style=for-the-badge&logo=pinterest&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:Kaveh.kakai@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://tryhackme.com/p/kaveh.kakai" target="_blank">
-        <img src="https://img.shields.io/badge/TryHackMe-%230b0557.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-    </a>
-    <a href="https://www.root-me.org/Kaveh-Kakaei-Nezhad" target="_blank">
-        <img src="https://img.shields.io/badge/RootMe-%2313ad05.svg?&style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCs5owEtSlSxQKRTFsQaeGAQ" target="_blank">
-        <img src="https://img.shields.io/badge/OnlyFans-%231877F2.svg?&style=for-the-badge&logo=onlyfans&logoColor=white" alt="Onlyfans" />
-    </a>
-</div>
-
-## 🧰 Skills & Languages
-
-- **Primary Language**
-  - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-   - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-- **Secondary Languages**  
- 
- - ![Javascript](https://img.shields.io/badge/Javascript-%23A8B9CC.svg?&style=for-the-badge&logo=Javascript&logoColor=white) 
-
-
-- **Hacking Tools**
-  - ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?&style=for-the-badge&logo=metasploit&logoColor=blue) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ff7b00.svg?&style=for-the-badge&logo=burp-suite&logoColor=white) ![Exploits](https://img.shields.io/badge/My%20Own%20Exploits-%23FF4500.svg?&style=for-the-badge&logo=security&logoColor=white)
-
-- **Operating Systems**
-   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![windows](https://img.shields.io/badge/Kali-%2300c8ff.svg?&style=for-the-badge&logo=windowsx&logoColor=white) 
- 
-- **Version Control**
-  - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-
-## 📚 Repositories
-
-In this GitHub account, you'll find a variety of my projects. Feel free to explore, and learn! 🎮🔍
-
-### 📁 Tools
-
-Below is a list of tools I've developed, which are designed to assist in various cybersecurity tasks:
-
-| Tool Name | Description | Link |
-|-----------|-------------|------|
-| **SubScan** | Sub domain scanner . | [GitHub](https://github.com/behnamvanda/subscan) |
-| **RCEScan** | Remote Code Execution Scanner. | [GitHub](https://github.com/behnamvanda/rce-scan) |
-
-### 🏆 Books
-
-Here is a list of My Books:
-
-| Name | Publisher | Year |
-|---------|--------------|------|
-| ![اعلی](https://img.shields.io/badge/-Aela-F80000?style=flat&logo=oracle&logoColor=white) | [Daneshyaran ](https://www.gisoom.com/book/11459665/کتاب-اعلی/) | 2018 |
-| ![کوتاه به بلندای آسمان](https://img.shields.io/badge/-KutahBarBolandayehAseman-F80000?style=flat&logo=oracle&logoColor=white) | [Daneshyaran](https://www.gisoom.com/book/11451606/کتاب-کوتاه-به-بلندای-آسمان/) | 2017 |
-| 
-
-### 🚨 Vulnerability Discovery & Report
-
-I have contributed to identifying and documenting several vulnerabilities. Here's a list of Vuls I've founded:
-
-| Product | Vulnerability Name | Link |
-|--------|-------------|------|
-| 🔒 **Prestige Software CMS** | Local File Disclosure | [Packet Storm](https://packetstormsecurity.com/files/122118/Prestige-Software-CMS-File-Disclosure.html) |
-| 🔒 **Wordpress Plugin** | Wordpress Gallery 3.8.3 Arbitrary File Read |  [Packet Storm](https://packetstormsecurity.com/files/119458/WordPress-Gallery-3.8.3-Arbitrary-File-Read.html) |
-| 🔒 **Wordpress Plugin** | WordPress Traffic Analyzer Cross Site Scripting |  [Packet Storm](https://packetstormsecurity.com/files/121167/WordPress-Traffic-Analyzer-Cross-Site-Scripting.html) |
-
-
-
-
-#### Additionally, I contributing to the discovery and responsible disclosure of vulnerabilities
-
-### 🚨 Exploit Development & PoC Contributions
-
-In addition to identifying and reporting vulnerabilities, I have actively participated in exploit development and the creation of proof-of-concept (PoC) examples for various vulnerabilities. These efforts are designed to showcase potential security threats and provide the cybersecurity community with resources for testing and mitigation
-
-| Vulnerability | Description | Link |
-|---------------|-------------|------|
-| 🔒 Sophos Web Appliance 4.3.10.4 Pre-auth command injection Vulnerability | Developed a exploit. | [Exploit-db](https://www.exploit-db.com/exploits/51396) |
-
-</br>
-
-> [!CAUTION]
-> ⚠️ Disclaimer
-> Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
-
-</br>
+🌍 Based in Iran | 🔭 Always learning | 🎶 Mixing tech, art & philosophy  
 
 ---
 
-</br>
-
-## 🤓 Stats for nerds 📊
+## 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=i%20love%20shells%20:~%23" alt="Introduction">
+  <a href="https://github.com/Kavehkakai" target="_blank"><img src="https://img.shields.io/github/followers/Kavehkakai?style=social" /></a>
+  <a href="https://www.linkedin.com/in/kaveh-kakaeinezhad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kavehkakai_kav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.pinterest.com/kavehkakaeinezhad/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="mailto:Kaveh.kakai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/kaveh.kakai" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://www.root-me.org/Kaveh-Kakaei-Nezhad" target="_blank"><img src="https://img.shields.io/badge/-RootMe-13ad05?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧰 Tech Stack & Skills  
+
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)  
+![Python](https://img.shields.io/badge/-Python-000?logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-000?logo=php)  
+![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)  
+![Go](https://img.shields.io/badge/-Go-000?logo=go)  
+![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)  
+![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus)  
+![C#](https://img.shields.io/badge/-C%23-000?logo=dotnet)  
+![Solidity](https://img.shields.io/badge/-Solidity-000?logo=solidity)  
+![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)  
+
+### ⚛️ Frontend  
+React | Next.js | Redux | Tailwind | Bootstrap | Vite | Cypress | Jest  
+
+### 🛠️ Backend & APIs  
+Node.js | Express | Django | FastAPI | Flask | .NET | GraphQL | REST | OpenAPI  
+
+### 🗄️ Databases  
+PostgreSQL | MySQL | MongoDB | Redis | Elasticsearch | SQLite  
+
+### ☁️ Cloud & DevOps  
+AWS | GCP | Azure | Docker | Kubernetes | GitHub Actions | Jenkins | Linux  
+
+---
+
+## 📚 Projects & Repositories  
+
+🔍 **Tools & Utilities**  
+| Tool | Description | Link |  
+|------|-------------|------|  
+| **SubScan** | Subdomain scanner | [GitHub](https://github.com/behnamvanda/subscan) |  
+| **RCEScan** | Remote Code Execution Scanner | [GitHub](https://github.com/behnamvanda/rce-scan) |  
+
+📖 **Books**  
+| Name | Publisher | Year |  
+|------|-----------|------|  
+| اعلی (*Aela*) | Daneshyaran | 2018 |  
+| کوتاه به بلندای آسمان (*As High as the Sky*) | Daneshyaran | 2017 |  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2500&color=00FF00&center=true&vCenter=true&lines=Code+is+Art;Engineering+is+Creativity;I+love+shells+%3A~%23" />
 </p>
 
 <p align="center">
-  <strong>Views</strong>
-  <br>
-  <img src="https://profile-counter.glitch.me/Kavehkakai/count.svg" alt="Visitors">
+  <img src="https://profile-counter.glitch.me/Kavehkakai/count.svg" alt="Visitors" />
 </p>
 
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/Kavehkakai?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
+  <img src="https://myreadme.vercel.app/api/embed/Kavehkakai?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 </p>
-
