@@ -10,7 +10,7 @@ Hi there! I'm **Kaveh Kakaei Nezhad**, a passionate full-stack developer, softwa
 I design and build modern web apps, scalable infrastructures, and creative digital experiences.  
 With years of hands-on experience, I enjoy working across the full stack—from polished UI/UX to robust backend systems—and contributing to the **developer community** with open-source tools & research.  
 
-🌍 Based in Iran | 🔭 Always learning | 🎶 Mixing tech, art & philosophy  
+🌍 Based in Earth Planet | 🔭 Always learning | 🎶 Mixing tech, art & philosophy  
 
 ---
 
